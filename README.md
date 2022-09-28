@@ -1,6 +1,6 @@
 
 ### Project Title ###
-***Hello World***
+***Hello World*** :grinning:
 
 ### Description ###
 <sub>Created "Hello World" using Python</sub>
@@ -12,4 +12,4 @@
 
 
 ![This is an Image] (https://www.britannica.com/animal/elephant-mammal)
-:EMOJICODE::grinning:
+
