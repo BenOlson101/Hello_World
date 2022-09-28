@@ -1,9 +1,9 @@
 
 ### Project Title ###
-*** Hello World ***
+***Hello World***
 
 ### Description ###
-<sub>created Hello world using Python</sub>
+<sub>Created "Hello World" using Python</sub>
 
 ### Additional Documentation ###
 
