@@ -1,6 +1,8 @@
 
 ### Project Title ###
 ***Hello World*** :grinning:
+-Ben Olson
+-9/28/22
 
 ### Description ###
 <sub>Created "Hello World" using Python</sub>
