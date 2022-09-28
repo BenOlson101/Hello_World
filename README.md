@@ -7,9 +7,7 @@
 ### Description ###
 <sub>Created "Hello World" using Python</sub>
 
-### Additional Documentation ###
-
-### Versioning ###
+### Program ###
  ~Python~  
 
 
